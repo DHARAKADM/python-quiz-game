@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "correct_answer": "Apollo 11",
+            "incorrect_answers": [
+                "Apollo 10",
+                "Apollo 9",
+                "Apollo 13"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following bones is not in the leg?",
+            "correct_answer": "Radius",
+            "incorrect_answers": [
+                "Patella",
+                "Tibia",
+                "Fibula "
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many planets make up our Solar System?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the primary addictive substance found in tobacco?",
+            "correct_answer": "Nicotine",
+            "incorrect_answers": [
+                "Cathinone",
+                "Ephedrine",
+                "Glaucine"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+            "correct_answer": "Brain",
+            "incorrect_answers": [
+                "Lungs",
+                "Skin",
+                "Heart"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the chemical element Curium named after?",
+            "correct_answer": "Marie &amp; Pierre Curie",
+            "incorrect_answers": [
+                "The Curiosity Rover",
+                "Curious George",
+                "Stephen Curry"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The asteroid belt is located between which two planets?",
+            "correct_answer": "Mars and Jupiter",
+            "incorrect_answers": [
+                "Jupiter and Saturn",
+                "Mercury and Venus",
+                "Earth and Mars"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The medical term for the belly button is which of the following?",
+            "correct_answer": "Umbilicus",
+            "incorrect_answers": [
+                "Nevus",
+                "Nares",
+                "Paxillus"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does LASER stand for?",
+            "correct_answer": "Light amplification by stimulated emission of radiation",
+            "incorrect_answers": [
+                "Lite analysing by stereo ecorazer",
+                "Light amplifier by standby energy of radio",
+                "Life antimatter by standing entry of range"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the atomic mass of Carbon?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "14",
+                "16",
+                "10"
+            ]
+        }
+    ]
+}
